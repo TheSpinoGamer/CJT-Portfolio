@@ -1,5 +1,6 @@
 ---
 title: Voice Controlled Collectable Card Game Demo
+layout: page
 modal-name: 
 ---
 
