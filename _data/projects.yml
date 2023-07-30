@@ -10,9 +10,7 @@
   modal-name: MyGameEngine
   logo: Developer.png
 
-- title: Task Tracker
-  event: MLH Fellowship Pre Fellowship Project
-  date: Summer 2021  - Batch 3.5
-  modal-name: project
-  logo: social-link.jpg
+- title: RayTracer
+  date: 2022
+  modal-name: RayTracer
 
