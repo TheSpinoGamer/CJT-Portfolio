@@ -12,4 +12,4 @@ This was assignment set during my 2nd year to show physics which could be applie
 I chose to produce a demonstration of spheres colliding showing collision detection and responding movements.
 
 ## Links
-[Raytracer on Github](https://github.com/TheSpinoGamer/RayTracer)
+[Physics Demostration Github](https://github.com/TheSpinoGamer/RayTracer)
