@@ -10,11 +10,11 @@
   modal-name: MyGameEngine
   logo: Developer.png
 
-- title: RayTracer
+- title: Physics Demonstration
   date: 2022
-  modal-name: RayTracer
-  logo: RayTracer.png
-  page-name: Ray Tracer
+  modal-name: PhysicsDemo
+  logo: Physics.png
+  page-name: Physics Demo
 
 - title: OOP Example
   date: 2021
