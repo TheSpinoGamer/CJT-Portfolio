@@ -1,6 +1,6 @@
 ---
 title: Physics Demonstration
-modal-name: PhysicsDemo
+modal-name: Physics
 ---
 
 ## Inspiration
